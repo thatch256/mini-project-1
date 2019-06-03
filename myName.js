@@ -1,1 +1,1 @@
-const myName = "Trevor"
+const myName = "Trevor's Evil Twin"
